@@ -1,0 +1,24 @@
+#header {
+    height: 20%;
+    text-align: center;
+    padding-bottom: 5%;
+}
+#header a:visited{
+    color: bisque;
+}
+
+#body {
+    height: 80%;
+    text-align: center;
+    font-size: xx-large;
+}
+#footer{
+    height: 20%; 
+    text-align: center;
+}
+html{
+    background-image: url('/Assignment/Images/background.jpg');
+    background-size: cover;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
